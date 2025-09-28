@@ -4,8 +4,7 @@
 ###
 
 <div align="center">
-  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/389f783d-7277-4a09-a8d6-ebf33bb4d5ba" />
-" height="60" alt="python logo"  />
+  <img src="https://www.flaticon.com/free-icon/python_919852?term=python&page=1&position=1&origin=search&related_id=919852" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
